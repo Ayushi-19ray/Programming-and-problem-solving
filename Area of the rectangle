@@ -1,0 +1,6 @@
+L=int(input("L:"))
+B=int(input("B:"))
+# Make use of the values of L and B read using the input functio
+
+sum = L*B
+print(sum)
